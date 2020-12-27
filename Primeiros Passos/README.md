@@ -1,4 +1,4 @@
-# Primeiros passos com Python :human_feet:
+# Primeiros passos com Python :foot: :foot:
 
 ![gif monty python silly walks](https://media.giphy.com/media/PjfpYh9oqpd0Q/source.gif)
 
