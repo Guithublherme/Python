@@ -1,10 +1,26 @@
-## Aula 1
+## Aula 1 - Tipos de váriaveis, entradas e saídas, operadores matemáticos.
 
-Tipos de váriaveis, entradas e saídas, operadores matemáticos.
+~~~python
+#saídas
+print("Olá mundo!");
 
-## Aula 2
+#entradas
+idade = input("Digite sua idade: ");
 
-Operadores lógicos e estruturas de decisões (IF e ELSE).
+#variáveis
+
+Nome = "Guilherme";
+idade = 27;
+altura = 1.75;
+tipoNome= type(Nome); #str
+tipoIdade= type(idade); #int
+tipoAltura= type(altura); #float 
+
+~~~
+
+
+## Aula 2 - Operadores lógicos e estruturas de decisões if e else.
+
 
 ### Estrutura:
 ~~~python
@@ -19,3 +35,9 @@ else:
 ~~~
 
 ![](https://media.giphy.com/media/ZBythhSiZAoYea6vC2/source.gif)
+
+
+## Aula 3 - Strings e listas
+
+
+## Aula 4 - Laços While e For
